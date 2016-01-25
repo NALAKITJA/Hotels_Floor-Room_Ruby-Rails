@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer: MyString
+  floor: MyString
+  room: 1
+
+two:
+  customer: MyString
+  floor: MyString
+  room: 1
